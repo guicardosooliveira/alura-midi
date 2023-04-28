@@ -1,0 +1,16 @@
+Alura Midi
+
+O Alura Midi é um projeto desenvolvido em HTML, CSS e Javascript que consiste em uma mesa de som. Ao apertar os botões na tela, o usuário pode produzir sons e criar sua própria música.
+
+Como utilizar
+
+- Clone ou baixe o repositório do projeto
+- Abra o arquivo index.html em seu navegador
+- Clique nos botões para produzir sons
+
+Tecnologias utilizadas
+- HTML
+- CSS
+- Javascript
+
+OBS: Esse projeto foi realizado durante um curso na plataforma alura.
